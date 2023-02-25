@@ -1,2 +1,0 @@
-# GGUCourse
-GGU Course 
